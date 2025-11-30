@@ -45,3 +45,4 @@ def print_vectors(B, Z):
 B3 = [[50,45],[4,3]]
 reduced, Z = lll_track(B3)
 print_vectors(reduced, Z)
+
