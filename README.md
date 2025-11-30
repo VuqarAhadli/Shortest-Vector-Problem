@@ -9,7 +9,7 @@ The accompanying PDF provides a comprehensive theoretical explanation, including
 Files:
 ------
 - lll_svp.py           : Python implementation of LLL for SVP.
-- LLL_SVP_Research.pdf : Detailed reference with theory, proofs, examples, and extensive bibliography.
+- SVP_Lattice_Problem.pdf : Detailed reference with theory, proofs, examples, and extensive bibliography.
 
 Requirements:
 -------------
