@@ -14,13 +14,11 @@ Files:
 Requirements:
 -------------
 - Python 3.8+ (tested)
-- Numpy
+
 
 Usage:
 ------
-1. Install dependencies: 
-   pip install numpy
-2. Import and run `lll_svp.py` on your lattice inputs.
+- Import math and run `lll_svp.py` on your lattice inputs.
 
 References:
 -----------
